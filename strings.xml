@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="image1">IMAGE1</string>
+    <string name="image2">IMAGE2</string>
+    <string name="image3">IMAGE3</string>
+    <string name="image4">IMAGE4</string>
+</resources>
